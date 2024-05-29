@@ -22,7 +22,7 @@ Contributors:
 ### Credits
 #### Photography Credits, Unsplash artists:  
 
-Victor-Duenas-Teixeira Wheres-Lugo Dan-Musat Haryo-Setyadi Fabia-Alves
+* Victor-Duenas-Teixeira Wheres-Lugo Dan-Musat Haryo-Setyadi Fabia-Alves
 Alan-Rrojo-Pinedo Alex-Ware Ali-Pazani Ali-Saadat Blake-Cheek Brock-Wegner Chris-Henry Chris-Lynch Dave-Herring Daytona-Driggers Ermia-Ramez Gab Gesphotoss I-am_nah Janne-Aspegren Jannes-Jacobs Jc-Gellidon Jon-Tyson Jose-Palma Luis-Villasmil Oswaldo-Ibanez Philipp-Lansing Rick-Monteiro Shawn Sonny-Mauricio Syed-Fahad The-Ian Yiran-Ding
 Geoffroy-Danest Alex-Haigh Amirrasim-Ashna Babi Brooke-Cagle Don-Delfin-almonte Fawz-Pilus Florencia-Simonini Gui-Franca Ian-Dooley-TT Jakayla-Toney Jaqueline-Fritz Jose-P-Ortiz Josue-Escoto Jusdevoyage Kukuvaja-Feinkost Logan-Weaver Luis-Santoyo Mohammad-Faruque Muhammet-Sain Patrik-Velich Pro-Church-media Rock-Staar Ryan-Hoffman Sebastian-Martinez Sincerely-Media The-Graphic-space Tj-Sedisa Toa-Heftiba Uji-Kanggo-Gumilang
 
