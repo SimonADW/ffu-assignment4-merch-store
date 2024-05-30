@@ -1,6 +1,6 @@
 const path = require('path')
 module.exports = {
-	mode: 'development',
+	mode: 'production',
 	entry: "./src/js/index.js",
 	output: {
 		path: path.resolve(__dirname,'dist'),
@@ -22,6 +22,5 @@ module.exports = {
 				}
 			},
 		]
-	},
-	watch: true
+	}
 }
