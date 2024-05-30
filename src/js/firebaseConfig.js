@@ -1,5 +1,7 @@
+import { FIREBASE_API_KEY } from "../assets/data/firebaseApiKey.js" 
+
 export const firebaseConfig = {
-	apiKey: "AIzaSyBiKvYVfyA8YRL3_4pmNLxpKcvlFH5kySw",
+	apiKey: FIREBASE_API_KEY,
 	authDomain: "merch-shop-1455c.firebaseapp.com",
 	projectId: "merch-shop-1455c",
 	storageBucket: "merch-shop-1455c.appspot.com",
