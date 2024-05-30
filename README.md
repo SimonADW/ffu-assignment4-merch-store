@@ -37,6 +37,8 @@ Icons
 License is found in the [Lincese.txt](License.txt) in the [:root folder][]
 
 ### Related links
+NOTE: Netlify doesnt provide backend; 
+	Run: "npm run server" locally to display api-feature on the netlify deployment also.
 Netlify: [Semesterassignment 4 - Final project](https://merchorama.netlify.app/)  
 GitHub: [Merchorama repository](https://github.com/SimonADW/)
 
