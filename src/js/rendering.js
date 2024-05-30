@@ -139,7 +139,12 @@ function sortList(listToSort, sortParameter) {
 		? listToSort.filter((product) => product.manufacturer === currentFilterOption.toString())
 		: listToSort;
 	return filteredList.sort((a, b) => {
-		return a[[sortParameter]].localeCompare(b[[sortParameter]])
+		// Check if string or num (Artist, title or price)		
+		if(sortParameter === "price") {
+			return a[[sortParameter]] - b[[sortParameter]];
+		} else {
+			return a[[sortParameter]].localeCompare(b[[sortParameter]])
+		}
 	});
 };
 
@@ -150,7 +155,6 @@ sortRadioButtons.forEach((button) => {
 	button.addEventListener("change", (event) => {
 		currentSortOption = event.target.id;
 		renderList(sortList(products, event.target.id));
-
 	})
 });
 

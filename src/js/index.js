@@ -143,7 +143,7 @@ const setProductsListToDatabase = async ()=> {
 	}
 };
 
-// setProductsListToDatabase();  Done once to store in firestore
+// setProductsListToDatabase();  // Done once to store in firestore //
 
 export async function getProductsFromDatabase() {
     try {
